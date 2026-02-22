@@ -26,6 +26,6 @@ Duvan Stiven Tique Osorio
 
 ## 6. Videos de ejecución
 
-[Ver ejecución 1](videos\SensorUltrasonido.mp4)
-[Ver ejecución 2](videos\Giro45Grados.mp4)
-[Ver ejecución 2](videos\MovimientoS.mp4)
+[Sensor de Ultrasonido](videos/SensorUltrasonido.mp4)
+[Movimiento y giro a 45°](videos/Giro45Grados.mp4)
+[Movimiento en S](videos/MovimientoS.mp4)
